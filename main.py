@@ -1,5 +1,6 @@
 import psutil
 import time
+import matplotlib.pyplot as plt
 
 dt = 20
 t = 0
